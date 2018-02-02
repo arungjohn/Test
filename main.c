@@ -3,7 +3,7 @@
 int main()
 {
 	printf("hello arun george\n");
-	printf("\n");
+	printf("\nremote master");
 	
 	return 0;
 }
