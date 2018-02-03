@@ -2,8 +2,8 @@
 void fun(void);
 int main()
 {
-	printf("hello arun george\n");
-	printf("\nremote master");
+	printf("Hello Arun George John\n");
+	printf("\nRemote Master");
 	printf("ksjdhfiusdghkjfg");
 	
 	return 0;
