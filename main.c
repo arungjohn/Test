@@ -9,3 +9,8 @@ int main()
 	return 0;
 }
 
+void fun(void)
+{
+	
+}
+
