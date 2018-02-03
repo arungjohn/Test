@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+void fun(void);
 int main()
 {
 	printf("hello arun george\n");
@@ -8,3 +8,4 @@ int main()
 	
 	return 0;
 }
+
